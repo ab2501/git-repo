@@ -1,1 +1,2 @@
 print ("Good bye old friend")
+print ("Goodbye everyone")
