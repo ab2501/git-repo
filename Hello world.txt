@@ -1,5 +1,8 @@
-print ("Hello, world!")
-print ("Hello, everyone!")
-print ("Hello!")
-print ("Hello, my dear friend")
-print ("Glad to meet you")
+<<<<<<< HEAD
+print ("Hello, world!;")
+print ("Hello, everyone!;")
+print ("Hello!;")
+print ("Hello, my dear friend;")
+print ("Glad to meet you;")
+
+
